@@ -1,3 +1,0 @@
-person4sleep: "data/raw_bed_sleep-state.csv"
-person4hr: 'data/raw_bed_hr.csv'
-person4PSQI: 'data/PSQI.xlsx'
